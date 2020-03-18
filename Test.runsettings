@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Parameters used by tests at run time -->
+  <TestRunParameters>
+    <Parameter name="AppId" value="..\Feladatok\WindowsFormsApp\bin\Debug\netcoreapp3.1\publish\ProjectFileForTest.exe" />
+    <Parameter name="RootPath" value=".\TestFiles" />
+  </TestRunParameters>
+</RunSettings>
